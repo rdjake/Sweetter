@@ -2,10 +2,9 @@
 
 <br />
 <div align="center">  
-    <img src="https://github.com/rdjake/Sweetter/assets/60819667/eb37c6ec-ba09-45d4-997c-c91a1cda4de0" alt="Logo" width="80" height="80">
+    <img src="https://github.com/rdjake/Sweetter/assets/60819667/eb37c6ec-ba09-45d4-997c-c91a1cda4de0" alt="Logo" width="120" height="120">
 
-  <h3 align="center">Sweetter</h3>
-
+  <h1 align="center">Sweetter</h1>
   <p align="center">
     A fun and sweet social media app
     <br />
@@ -21,10 +20,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Twitter is a great social media, i like how any idea or thought can be shared as a mini acrticle and instantly receive people's reflections and reactions from around the globe. 
-Users can just like something they relate to, or express opinion in a comment, add to own feed via retweet, or quote it along with noteworthy observations creating a new unit of discussions people can reflect to also.
+Twitter is a great social media platform; I like how any idea or thought can be shared as a mini-article and instantly receive people's reflections and reactions from around the globe. 
+Users can simply like something they relate to, or express their opinions in a comment, add to their own feed via retweet, or quote it along with noteworthy observations, creating a new thread of discussion for people to also reflect on.
 
-Inspired by blue birdy I bring the same concept in a fun and pleasant design and sweet candy interactions.
+Inspired by the blue birdy, I aim to bring the same concept in a fun and pleasant design with "sweet candy" interactions.
+
 ### Everybody lets greet Sweetter featuring:
 * 👨‍🎨 Fully new UI designed from scratch
 * 🌀 Smooth animations in all interactions
