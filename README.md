@@ -29,7 +29,10 @@ Inspired by blue birdy I bring the same concept in a fun and pleasant design and
 * 🌀 Smooth animations in all interactions
 * 🍭 Literally Candy text inputs, so excited for you to check out this feature
 
-<video src="demo.mov" />
+<video width="320" height="240" controls>
+  <source src="https://github.com/rdjake/Sweetter/blob/main/demo.mp4" type="video/mp4">
+</video>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
