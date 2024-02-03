@@ -31,7 +31,7 @@ Inspired by the blue birdy, I aim to bring the same concept in a fun and pleasan
 * 🍭 Literally Candy text inputs, so excited for you to check out this feature
 
 Check out demo video 👇👇👇
-[![image](https://github.com/rdjake/Sweetter/assets/60819667/2f5af346-656d-43d1-8e25-d2be56965112)](https://drive.google.com/file/d/1GRPLzn8nUR0ATJGKE2FltDMGE71qo8bA/preview)
+[![image](https://github.com/rdjake/Sweetter/assets/60819667/efad72e7-f821-47a1-bea6-aa00817bc115)](https://drive.google.com/file/d/1GRPLzn8nUR0ATJGKE2FltDMGE71qo8bA/preview)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
